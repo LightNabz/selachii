@@ -57,7 +57,7 @@ sudo chroot ./selachii /usr/bin/env -i \
 sudo umount -R /path/to/selachii
 ```
 
-> For further installation guide, you might refer to [docs/From Source Kernel](docs/INSTALL_compile-kernel.md) or [docs/Binary Kernel](docs/INSTALL_bin-kernel.md)
+> For further installation guide, you might refer to [Installation Guide](docs/INSTALL.md)
 ---
 
 ## 💿 Installing to Disk
