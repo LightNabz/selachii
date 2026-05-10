@@ -90,7 +90,7 @@ chroot /mnt/gentoo /bin/bash --login
 ```
 
 Then compile a kernel (6.18+), install GRUB2, set a root password, and reboot.
-See [INSTALL.md](INSTALL.md) for the details.
+See [INSTALL.md](docs/INSTALL.md) for the details.
 
 ---
 
