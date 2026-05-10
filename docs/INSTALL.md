@@ -152,7 +152,7 @@ cp arch/x86/boot/bzImage /boot/vmlinuz-6.18.10
 cp System.map /boot/System.map-6.18.10
 ```
 
-> For further detail, you might refer to [Compile From Source](docs/INSTALL_compile-kernel.md) or [Binary Kernel](docs/INSTALL_bin-kernel.md)
+> For further detail, you might refer to [Compile From Source](INSTALL_compile-kernel.md) or [Binary Kernel](INSTALL_bin-kernel.md)
 
 ---
 
