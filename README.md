@@ -57,6 +57,7 @@ sudo chroot ./selachii /usr/bin/env -i \
 sudo umount -R /path/to/selachii
 ```
 
+> For further installation guide, you might refer to [docs/From Source Kernel](docs/INSTALL_compile-kernel.md) or [docs/Binary Kernel](docs/INSTALL_bin-kernel.md)
 ---
 
 ## 💿 Installing to Disk
@@ -104,10 +105,12 @@ sudo tar -xJpf selachii-26.0.0-amd64.tar.xz \
 
 ## 🦈 Why "Selachii"?
 
-Selachii is the subclass that sharks belong to. Sharks are built different. So is this distro (allegedly).
+Selachii is the subclass that sharks belong to. Sharks are built different. So is this distro (allegedly). Also, sharks are cute and I think the name is really cute.
 
 ---
 
 ## 📜 License
 
 Do whatever you want with it. It's just LFS with extra steps and a cool name.
+
+> WARNING: FILES IN THE SOURCE CODE WERE PARTIALLY VIBE CODED (I don't have enough time to tidy things up)
