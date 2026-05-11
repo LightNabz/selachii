@@ -456,17 +456,17 @@ Options:
 
 ## Install GRUB2
 
-> **Note:** Selachii does not ship GRUB2. You need to compile and install it yourself
+> **NOTE:** Selachii does not ship GRUB2. You need to compile and install it yourself
 > before it can be used as a bootloader. Follow the BLFS guide for building GRUB2
 > from source:
 >
-> **https://www.linuxfromscratch.org/blfs/view/12.3/postlfs/grub-setup.html**
+> **https://www.linuxfromscratch.org/blfs/view/12.3/postlfs/grub-efi.html**
 >
 > That guide covers obtaining the source, dependencies, building, and the exact
 > `grub-install` invocation for both BIOS and UEFI systems. Come back here once
 > GRUB2 is installed and continue with `grub-mkconfig` below.
-
->**NOTE:** All neceessary dependencies for Grub2 were already built-in inside the tarball, better to double check it.
+>
+>**NOTE:** Some neceessary dependencies for Grub2 were already built-in inside the tarball, better to double check it though.
 
 ### BIOS/MBR systems
 
